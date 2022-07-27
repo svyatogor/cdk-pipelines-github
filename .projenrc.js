@@ -8,7 +8,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   cdkVersion: '2.9.0',
   constructsVersion: '10.0.46',
   defaultReleaseBranch: 'main',
-  repositoryUrl: 'https://github.com/cdklabs/cdk-pipelines-github.git',
+  repositoryUrl: 'https://github.com/svyatogor/cdk-pipelines-github.git',
   bundledDeps: ['decamelize', 'yaml'],
 
   publishToPypi: {

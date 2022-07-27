@@ -3,7 +3,7 @@
   "description": "GitHub Workflows support for CDK Pipelines",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cdklabs/cdk-pipelines-github.git"
+    "url": "https://github.com/svyatogor/cdk-pipelines-github.git"
   },
   "scripts": {
     "build": "npx projen build",
